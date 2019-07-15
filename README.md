@@ -1,11 +1,15 @@
-# Instructions
+# About
+
+The project considered finished and no additional impovements are planned
+
+## Instructions
 
 - Use `webpack.config.js` config file from this directory
 - Run `webpack` command to build project
 - Run `webpack-dev-server --open` to start server with auto-reload on changes
 - See config files for details
 
-# Specifications
+## Specifications
 
 - Premium page parallax
 - Responsiveness of all elements
