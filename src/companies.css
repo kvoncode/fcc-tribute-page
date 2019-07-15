@@ -1,0 +1,60 @@
+.ccompanies-cnt {
+  max-width: 992px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.ccmpny-cards {
+  flex-wrap: wrap;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.ccmpny {
+  display: flex;
+  margin: 1rem;
+}
+
+.ccmpny-logo {
+  max-width: 50%;
+  display: block;
+}
+
+.ccmpny-logo-cnt {
+  display: flex;
+  background-color: black;
+
+  justify-content: center;
+  align-items: center;
+  height: 20rem;
+  width: 20rem;
+}
+
+.ccmpny-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  text-align: left;
+  padding: 2rem;
+  height: 20rem;
+  width: 20rem;
+  background-color: black;
+  color: var(--csecondary);
+}
+
+.ccmpny-website {
+  color: var(--csecondary);
+  text-decoration: underline;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .ccmpny {
+    flex-direction: column;
+  }
+}

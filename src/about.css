@@ -1,0 +1,83 @@
+.cabout-cnt {
+  max-width: 992px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.cperson-img {
+  display: block;
+  max-height: 30rem;
+  max-width: 30rem;
+  width: auto;
+  height: auto;
+}
+
+.cperson {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  max-width: 100%;
+}
+
+.cperson-info {
+  background-color: var(--cprimary);
+  padding: 2rem;
+  color: var(--csecondary);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 30rem;
+  max-width: 30rem;
+  line-height: 2rem;
+  font-size: 1.1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cdelimiter {
+  border-top: 1px solid #282828;
+  margin: 8px 0;
+}
+
+.ctwitter-logo {
+  height: 2rem;
+  width: 2rem;
+  margin: auto;
+}
+
+.ctwitter-logo:hover {
+  opacity: 0.7;
+}
+
+.ctwt-container {
+  margin-top: 2rem;
+  text-align: center;
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .cperson {
+    flex-direction: column;
+    align-items: center;
+  }
+  .cperson-img {
+    max-height: 60rem;
+    max-width: 100%;
+  }
+
+  .cperson-info {
+    height: 100%;
+    max-width: 100%;
+  }
+
+  .cabout-cnt {
+    display: flex;
+    flex-direction: column;
+  }
+}

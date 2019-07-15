@@ -1,0 +1,53 @@
+.cpremier-img-div {
+  filter: brightness(90%);
+  z-index: -100;
+  width: 100%;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cbg-transparent {
+  width: 100%;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  padding: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.cquote {
+  font-family: "Montserrat", sans-serif;
+
+  width: 30rem;
+  position: relative;
+  font-size: 1.5rem;
+  color: var(--csecondary);
+  opacity: 1;
+  text-align: left;
+  z-index: 0;
+  line-height: normal;
+  margin: auto;
+}
+
+.cquoted {
+  color: white;
+}
+
+/* media for premier */
+@media screen and (max-width: 1440px) {
+  .cbg-transparent {
+    max-width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cquote {
+    width: 60%;
+    font-size: 1rem;
+  }
+}

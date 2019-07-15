@@ -1,0 +1,48 @@
+:root {
+  --cprimary: #000000;
+  --csecondary: #ffd740;
+  --ctertiary: #47b8e0;
+  --cquaternary: #34314c;
+}
+
+/* Basic Rules #ffd740 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+}
+
+.ccenter-all {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.cm-full-height {
+  min-height: 100vh;
+}
+
+.cshadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Responsive image Full Height and Width with text on it*/
+.cpremier-img {
+  object-fit: cover;
+  overflow: hidden;
+  filter: brightness(90%);
+  z-index: -100;
+  width: 100%;
+  height: 100vh;
+}
+
+.codepen-mock-img {
+  max-width: 1px;
+  display: block;
+}

@@ -1,0 +1,13 @@
+.csub-header {
+  text-align: left;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 425px) {
+  .csub-header {
+    margin: 1rem !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}

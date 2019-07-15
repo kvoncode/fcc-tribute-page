@@ -1,0 +1,107 @@
+{
+    "pageTitle": "Elon Musk Tribute Page",
+    "premier": {
+        "bigImg": "img/main.jpg",
+        "quote": "When something is important enough you do it even if the odds are not in your favor",
+        "quoted": "Elon Musk",
+        "cite": "https://www.brainyquote.com/quotes/elon_musk_567219"
+    },
+    "person": {
+        "title": "About Elon",
+        "about1": "Born and raised in Pretoria, South Africa, Musk moved to Canada when he was 17 to attend Queen's University. He transferred to the University of Pennsylvania two years later, where he received an economics degree from the Wharton School and a degree in physics from the College of Arts and Sciences. He began a Ph.D. in applied physics and material sciences at Stanford University in 1995 but dropped out after two days to pursue an entrepreneurial career. He subsequently co-founded Zip2, a web software company, which was acquired by Compaq for $340 million in 1999. Musk then founded X.com, an online bank. It merged with Confinity in 2000 and later that year became PayPal, which was bought by eBay for $1.5 billion in October 2002",
+        "about2": "During his childhood, Musk was an avid reader. At the age of 10, he developed an interest in computing with the Commodore VIC-20. He taught himself computer programming at the age of 10, and by the age of 12 sold the code of a BASIC-based video game he created called Blastar, to a magazine called PC and Office Technology, for approximately $500. A web version of the game is available online. His childhood reading included Isaac Asimov's Foundation series, from which he drew the lesson that you should try to take the set of actions that are likely to prolong civilization, minimize the probability of a dark age and reduce the length of a dark age if there is one.",
+        "img": "img/person.jpg",
+        "infoArr": [
+            [
+                "Name",
+                "Elon Reeve Musk"
+            ],
+            [
+                "Born",
+                "June 28, 1971 Pretoria, South Africa"
+            ],
+            [
+                "Occupation",
+                "Entrepreneur, investor, engineer"
+            ],
+            [
+                "Known for",
+                "Tesla, SpaceX, Neuralink, Boring Company, Zip2, PayPal, OpenAI, Solar City"
+            ]
+        ],
+        "twitter": "https://twitter.com/elonmusk",
+        "twitterSvg": "img/twt.svg"
+    },
+    "wideQuote": {
+        "img": "img/wq.jpeg",
+        "text": "People sometimes forget that a company is just a group of people gathered together to make products. So long as it makes great products, it will have great value."
+    },
+    "companies": {
+        "title": "Companies",
+        "text1": "In May 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO and lead designer. He helped fund Tesla, Inc., an electric vehicle and solar panel manufacturer, in 2003, and became its CEO and product architect. In 2006, he inspired the creation of SolarCity, a solar energy services company that is now a subsidiary of Tesla, and operates as its chairman. In 2015, Musk co-founded OpenAI, a nonprofit research company that aims to promote friendly artificial intelligence. In July 2016, he co-founded Neuralink, a neurotechnology company focused on developing brain–computer interfaces, and is its CEO. In December 2016, Musk founded The Boring Company, an infrastructure and tunnel-construction company.",
+        "text2": "In addition to his primary business pursuits, Musk has envisioned a high-speed transportation system known as the Hyperloop, and has proposed a vertical take-off and landing supersonic jet electric aircraft with electric fan propulsion, known as the Musk electric jet. Musk has stated that the goals of SpaceX, Tesla, and SolarCity revolve around his vision to change the world and humanity. His goals include reducing global warming through sustainable energy production and consumption, and reducing the risk of human extinction by establishing a human colony on Mars.",
+        "cards": [
+            {
+                "id": "1",
+                "logo": "img/tesla.svg",
+                "website": "https://www.tesla.com/",
+                "info": [
+                    [
+                        "name",
+                        "Tesla Motors"
+                    ],
+                    [
+                        "founded",
+                        "July 1, 2003"
+                    ],
+                    [
+                        "industry",
+                        "Automotive, Energy storage"
+                    ]
+                ]
+            },
+            {
+                "id": "2",
+                "logo": "img/spacex.svg",
+                "website": "https://www.spacex.com/",
+                "info": [
+                    [
+                        "name",
+                        "Space X"
+                    ],
+                    [
+                        "founded",
+                        "May 6, 2002"
+                    ],
+                    [
+                        "industry",
+                        "Aerospace"
+                    ]
+                ]
+            }
+        ]
+    },
+    "twitter": {
+        "title": "Twitter",
+        "text": "Elon Musk uses Twitter to make promises, launch products, and crack the occasional jokes that make us all laugh a little. Whether you love him or hate him, you have to admire Elon Musk's Twitter account. We have collected the 16 best tweets from Musk that made us love the serial entrepreneur and big dreamer just a little bit more. ",
+        "tweets": [
+            {
+                "title": "Flamethrowers for “zombie apocalypse",
+                "text": " Musk funded The Boring Company by selling real-life flamethrowers. He backed up the unbelievable publicity stunt with some ripper tweets urging people to buy because they would really come in handy if the zombie apocalypse arrives.",
+                "html" : "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">When the zombie apocalypse happens, you\u2019ll be glad you bought a flamethrower. Works against hordes of the undead or your money back!<\/p>&mdash; Elon Musk (@elonmusk) <a href=\"https:\/\/twitter.com\/elonmusk\/status\/957441956874919936?ref_src=twsrc%5Etfw\">January 28, 2018<\/a><\/blockquote>"
+                
+            },
+            {
+                "title": "Musk denies involvement in the creation of a zombie apocalypse",
+                "text": " Musk pushed the joke in ways only a man selling flamethrowers can, following up his initial tweet by denying his involvement in the creation of a zombie apocalypse. It's clear Musk is having as much fun with the idea of flamethrowers as his fans are.",
+                "html": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">The rumor that I\u2019m secretly creating a zombie apocalypse to generate demand for flamethrowers is completely false<\/p>&mdash; Elon Musk (@elonmusk) <a href=\"https:\/\/twitter.com\/elonmusk\/status\/957494364028071936?ref_src=twsrc%5Etfw\">January 28, 2018<\/a><\/blockquote>"
+            },
+            {
+                "title": "Musk delights in rumors that he is a lost alien",
+                "text": " How is it possible for one man to be the head of so many cutting-edge companies and still manage to date Grimes? Musk seems to delight in denying the rumors his fans must hope is actually true.",
+                "html": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">The rumor that I&#39;m building a spaceship to get back to my home planet Mars is totally untrue<\/p>&mdash; Elon Musk (@elonmusk) <a href=\"https:\/\/twitter.com\/elonmusk\/status\/576140759281238017?ref_src=twsrc%5Etfw\">March 12, 2015<\/a><\/blockquote>"
+            }
+
+        ]
+    }
+}

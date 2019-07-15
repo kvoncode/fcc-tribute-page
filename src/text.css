@@ -1,0 +1,21 @@
+.ctext {
+  text-align: justify;
+  padding: 4rem;
+}
+
+@media screen and (max-width: 425px) {
+  .ctext {
+    padding: 2rem;
+    font-size: 0.9rem;
+  }
+
+  .cdense-text {
+    font-size: 0.9rem;
+    margin: 1rem !important;
+  }
+}
+
+.cdense-text {
+  text-align: justify;
+  padding: 1rem;
+}

@@ -1,0 +1,28 @@
+.ctwitter-cnt {
+  max-width: 992px;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.ctweets {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.twitter-tweet {
+  width: 100%;
+  margin: auto;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .twitter-tweet {
+    max-width: 100% !important;
+    width: 90% !important;
+    margin: auto;
+  }
+}
